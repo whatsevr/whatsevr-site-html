@@ -1,2 +1,2 @@
 > > npx firebase projects:list
-> > npx firebase use asif-akhtar-portfolio
+> > npx firebase use whatsevr-website
