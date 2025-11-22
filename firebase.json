@@ -1,0 +1,19 @@
+{
+  "hosting": {
+    "public": ".",
+    "trailingSlash": false,
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "!**/.well-known",
+      "**/node_modules/**"
+    ],
+    "redirects": [
+      {
+        "source": "/index.html",
+        "destination": "/",
+        "type": 301
+      }
+    ]
+  }
+}

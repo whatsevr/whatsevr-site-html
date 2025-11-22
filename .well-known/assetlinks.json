@@ -1,0 +1,39 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.whatsevr.socialmedia",
+            "sha256_cert_fingerprints": [
+                "ED:22:AE:B4:E5:9B:D8:09:BF:3D:0A:87:E2:7F:47:B4:24:6D:91:79:D0:AB:5C:4E:CF:0F:E0:DA:04:90:EA:06",
+                "58:AD:FE:2F:EB:08:A9:79:AB:68:6C:7D:77:D7:CE:59:49:EB:79:3C:BE:F2:1D:E1:38:73:64:BB:A6:CD:A1:CC"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.whatsevr.socialmedia.dev",
+            "sha256_cert_fingerprints": [
+                "58:AD:FE:2F:EB:08:A9:79:AB:68:6C:7D:77:D7:CE:59:49:EB:79:3C:BE:F2:1D:E1:38:73:64:BB:A6:CD:A1:CC"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.whatsevr.socialmedia.qa",
+            "sha256_cert_fingerprints": [
+                "58:AD:FE:2F:EB:08:A9:79:AB:68:6C:7D:77:D7:CE:59:49:EB:79:3C:BE:F2:1D:E1:38:73:64:BB:A6:CD:A1:CC"
+            ]
+        }
+    }
+]
